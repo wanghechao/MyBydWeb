@@ -72,10 +72,10 @@
       <template #title>
         <i-ep-Expand />
       </template>
-      <el-menu-item index="9-1" >全国活动</el-menu-item>
-      <el-menu-item index="9-2">我的朋友</el-menu-item>
-      <el-menu-item index="9-3">新闻资讯</el-menu-item>
-      <el-menu-item index="9-4">品牌互动</el-menu-item>
+      <el-menu-item>全国活动</el-menu-item>
+      <el-menu-item>我的朋友</el-menu-item>
+      <el-menu-item>新闻资讯</el-menu-item>
+      <el-menu-item>品牌互动</el-menu-item>
     </el-sub-menu>
     
     <el-menu-item>

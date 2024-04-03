@@ -150,6 +150,7 @@
       </el-footer>
     </el-container>
   </div>
+  <alert-new-user/>
 </template>
 
 
